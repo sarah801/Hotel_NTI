@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public abstract class Room
 {
+    //room
     String roomNumber ;
     String Type ;
     double baseRate ;
