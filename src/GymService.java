@@ -4,6 +4,6 @@ public class GymService implements Service {
        return 79;
     }
     public String  getName() {
-       return "Gym";
+       return "Gymestics";
     }
 }
