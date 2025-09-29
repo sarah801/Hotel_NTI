@@ -1,7 +1,7 @@
 public class GymService implements Service {
     //gym
     public double  getCost() {
-       return 600;
+       return 300;
     }
     public String  getName() {
        return "Gym";
