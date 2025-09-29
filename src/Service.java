@@ -1,5 +1,6 @@
 public interface Service {
-    //services
+    //services sarah mustafa 
+|
     double getCost();
     String getName() ;
 }
