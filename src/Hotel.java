@@ -29,7 +29,7 @@ public class Hotel {
     public void displayBookingDetails(String roomNumber)
     {
         Room room = rooms.get(roomNumber);
-        System.out.println("Reservation Details as follows : ");
+        System.out.println("Reservation  off Details as follows : ");
         System.out.println("Room Type : " + room.getDescription());
         System.out.println("Total Cost :  " +room.getTotalCost());
         System.out.println("Room No:  "+ room.getRoomNumber());
