@@ -10,7 +10,7 @@ public class Main {
         hotel.bookRoom("103", new GymService());
 
         hotel.displayBookingDetails("1011");
-        hotel.displayBookingDetails("102");
+        hotel.displayBookingDetails("0000102");
         hotel.displayBookingDetails("103");
 
     }
