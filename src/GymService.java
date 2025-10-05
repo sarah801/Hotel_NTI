@@ -4,6 +4,6 @@ public class GymService implements Service {
        return 200;
     }
     public String  getName() {
-       return "Gym Saraaaaaaaaaa ";
+       return "Gym Sara 1233344";
     }
 }
