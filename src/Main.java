@@ -9,7 +9,7 @@ public class Main {
         hotel.bookRoom("102", new DiningService());    // Add Dining service to Deluxe Room
         hotel.bookRoom("103", new GymService());
 
-        hotel.displayBookingDetails("101");
+        hotel.displayBookingDetails("1011");
         hotel.displayBookingDetails("102");
         hotel.displayBookingDetails("103");
 
