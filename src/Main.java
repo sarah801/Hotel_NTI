@@ -11,7 +11,7 @@ public class Main {
 
         hotel.displayBookingDetails("1011");
         hotel.displayBookingDetails("0000102");
-        hotel.displayBookingDetails("103");
+        hotel.displayBookingDetails("103000"); ///saraahhhhhhhh
 
     }
 }
