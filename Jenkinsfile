@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'staging',
+                git branch: 'master',
                     credentialsId: 'github-pat',  
                     url: 'https://github.com/sarah801/Hotel_NTI.git'
             }
